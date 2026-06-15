@@ -20,6 +20,7 @@ Client project — showcased in the EminnTech portfolio as an example of luxury 
 
 ## Live Site
 🌐 [eminntech.com/work](https://eminntech.com/work)
+🌐 [scentraperfumery.netlify.app]
 
 ## Built by
 Emmanuel Joshua — [eminntech.com](https://eminntech.com) | Ibadan, Nigeria
